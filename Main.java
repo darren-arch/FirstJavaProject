@@ -1,9 +1,6 @@
-import java.io.File;
 
 public class Main {
     public static void main(String[] args) {
-        String name = "John";
-        System.out.println("Hello World" + name);
-        
+        System.out.println("This is my main program");
     }
 }
